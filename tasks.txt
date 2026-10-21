@@ -1,0 +1,1 @@
+perform cross join on two tables with 2 groups of cricket teams. Tbl1 will contain asian teams, tbl2 will contain european teams. matchup will be for tournament.
